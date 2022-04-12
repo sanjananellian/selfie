@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(203, 145, 236);
+}
+#start
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#selfie
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#voicedisplayed
+{
+    width: 300px;
+}
